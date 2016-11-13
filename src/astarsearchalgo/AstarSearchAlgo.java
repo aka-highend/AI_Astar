@@ -33,7 +33,7 @@ public class AstarSearchAlgo{
                 Node n11 = new Node("Rimini", 0.5);
                 Node n12 = new Node("Ravenna", 0);
  
-                // inisialisasi Edge based on the distance cost between nodes
+                // Edge initialitation based on the distance cost between node
         
                 // Bobbia
                 n1.adjacencies = new Edge[] {
